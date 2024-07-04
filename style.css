@@ -196,7 +196,8 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
-  border-top: 1rem;
+  border-top: 1rem dashed black;
+  margin-top: 1rem;
   padding: 1rem;
 }
 
